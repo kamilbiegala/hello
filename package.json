@@ -1,0 +1,20 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^7",
+    "express": "^4",
+    "sap-cf-axios": "^1.0.1"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^1",
+    "@types/jest": "*"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
