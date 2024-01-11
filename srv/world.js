@@ -28,7 +28,7 @@ module.exports = class say {
       
    }
     if (to === 'me') to = require('os').userInfo().username
-    return `Hello ${to}! he he`
+    return `Hello ${to}! he he2`
     log("asd")
   }
 }
