@@ -1,3 +1,4 @@
+[![Quality Gate Status](https://sonarqube.c-164ee58.kyma.ondemand.com/api/project_badges/measure?project=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf&metric=alert_status&token=sqb_f5e27d60c0b0e658aaaacf4cde14d0b92bb9d285)](https://sonarqube.c-164ee58.kyma.ondemand.com/dashboard?id=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf) [![Bugs](https://sonarqube.c-164ee58.kyma.ondemand.com/api/project_badges/measure?project=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf&metric=bugs&token=sqb_f5e27d60c0b0e658aaaacf4cde14d0b92bb9d285)](https://sonarqube.c-164ee58.kyma.ondemand.com/dashboard?id=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf) [![Code Smells](https://sonarqube.c-164ee58.kyma.ondemand.com/api/project_badges/measure?project=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf&metric=code_smells&token=sqb_f5e27d60c0b0e658aaaacf4cde14d0b92bb9d285)](https://sonarqube.c-164ee58.kyma.ondemand.com/dashboard?id=kamilbiegala_hello_AYz0AHcw4lm_vBbBW-Pf)
 # Getting Started
 
 Welcome to your new project.
@@ -23,3 +24,5 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+Some changes.
