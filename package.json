@@ -17,5 +17,10 @@
   "scripts": {
     "start": "cds-serve",
     "test": "npx jest"
+  },
+  "cds": {
+    "requires": {
+      "auth":"dummy"
+    }
   }
 }
