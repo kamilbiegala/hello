@@ -7,7 +7,7 @@ describe('Hello world!', () => {
 
     it('should say hello with class impl', async () => {
         const {data} = await GET`/say/hello(to='world')`
-        expect(data.value).toMatch(/Hello world./i)
+        expect(data.value).toMatch(/Hel2lo world./i)
     })
 
 })
