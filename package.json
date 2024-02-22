@@ -12,15 +12,17 @@
   },
   "devDependencies": {
     "@cap-js/sqlite": "^1",
-    "@types/jest": "*"
+    "@types/jest": "*",
+    "husky": "^9.0.11"
   },
   "scripts": {
     "start": "cds-serve",
-    "test": "npx jest"
+    "test": "npx jest",
+    "prepare": "husky"
   },
   "cds": {
     "requires": {
-      "auth":"dummy"
+      "auth": "dummy"
     }
   }
 }
